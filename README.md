@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 ![Qkd004's Github Stats](https://github-readme-stats.vercel.app/api?username=Qkd004&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qkd004&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qkd004)
