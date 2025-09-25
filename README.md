@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Qkd004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qkd004&count_private=true&show_icons=true&theme=radical)
+
+![Qkd004's Github Stats](https://github-readme-stats.vercel.app/api?username=Qkd004&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=86400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qkd004&hide=TeX&layout=compact)
